@@ -149,6 +149,47 @@ Confirmed the azure student credit from 100 USD to 135 CAD
 Deployed our web site in microsoft azure
 
 Nirmaljit Kaur
+
 1930
 2024-03-08
 Deployed the website Doors2Heaven in microsoft azure.
+ 
+
+Nirmal
+
+1520
+2024-03-14
+Added Logo 
+
+Kinjal
+1920
+2024-03-14
+Added authorization and authentication 
+Created Admin and guest accounts to limit the user access for specific roles
+
+Kinjal
+2015
+2024-03-14
+Push to git hub and deploy the project
+Published it with the latest updates.
+Resolved the Network error by adding an IP address and setting the firewall rule
+
+Nirmal
+1520
+2024-03-14
+Created test and production environment and included with the current GitHub repository.
+Verified the access of Admin and guest accounts to ensure that the guest only has read access and admin can perform CRUD operation.
+
+Git Hub repository Link: https://github.com/KichuAneesh/Doors2Heaven
+Azure URL              : https://snkdoors.azurewebsites.net/
+
+
+Usernames and passwords:
+1.Username : admin@doors2heaven.com
+  Password : Doors2Heaven!
+2.Username: w0848290@myscc.ca
+  Password: Heaven@123
+3.W0847848@mscc.ca
+  Password: Kavleen@2022
+
+
