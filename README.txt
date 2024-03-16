@@ -182,7 +182,8 @@ Verified the access of Admin and guest accounts to ensure that the guest only ha
 
 Git Hub repository Link: https://github.com/KichuAneesh/Doors2Heaven
 Azure URL              : https://snkdoors.azurewebsites.net/
-
+Production : http://doors2heavenprod.azurewebsites.net -(Default domain) 
+Test: http://doors2heavenlive.azurewebsites.net
 
 Usernames and passwords:
 1.Username : admin@doors2heaven.com
